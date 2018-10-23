@@ -1,6 +1,6 @@
 # 2-2: Battleship
 
-Write a program that creates a 5x5 2D array. Place two battleships (three columns long) randomly in the array using the pseudo-random number generator from the Skittles problem.
+Write a program that creates a 5x5 2D array. Place two battleships (three columns long) randomly in the array using the pseudo-random number generator from the [Skittles problem](https://docs.cs50.net/2016/ap/problems/skittles/skittles.html).
 
 You'll want to generate the location of the first ship in a random row, starting in one of the first three columns (at index 0, 1, or 2). You'll generate the location of the second ship of the same way except you'll make sure the ships don't overlap (i.e. they are not in the same row). Each ship should span three columns.
 
