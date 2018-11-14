@@ -6,4 +6,4 @@ You'll want to generate the location of the first ship in a random row (at index
 
 Then you will prompt the user to guess the ships' locations. Continuously prompt the user to guess a row index and a column index, and congratulate them for hitting a ship if they do so. Otherwise, tell them to guess again.
 
-**Extra Credit (+5 pts)**: Keep track of whether the user has found all of both ships. When they find all of both ships, stop prompting them to guess locations and congratulate them!
+**Extra Credit (+3 pts)**: Keep track of whether the user has found all of both ships. When they find all of both ships, stop prompting them to guess locations and congratulate them!
